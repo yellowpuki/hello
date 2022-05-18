@@ -3,3 +3,4 @@ HEllo vim
 Новый проект добавлен
 1
 Hello everyone
+Hello, git rebase!
